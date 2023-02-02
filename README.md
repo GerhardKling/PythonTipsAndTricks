@@ -18,3 +18,8 @@ You wrote your code relying on Python packages. It runs perfectly - but after a 
 This is my favourite interview question: "Write a function called sum_of_even_numbers. The function should accept a list of integers. It returns the sum of all even numbers in the list. Finally, print this number." I will discuss two ways to address this question using for loops and list comprehension.
 
 ### [YouTube Video 2](https://youtu.be/oWmgBzYPWTs)
+
+## P3: Fitting Circles into a Square: Python Interview Questions
+This is a more challenging interview question: "Select a point P inside the square of length q randomly (2D). Each point P is the centre of a circle of radius r. Note that circles must be inside the square and cannot overlap. Determine the probability of drawing a point in N draws, which is the centre of a permitted circle." Complicated? This video illustrates how to tackle complex questions step-by-step.
+
+### [YouTube Video 3](https://youtu.be/BTGUMGspt8M)
