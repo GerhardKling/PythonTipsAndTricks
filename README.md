@@ -23,3 +23,23 @@ This is my favourite interview question: "Write a function called sum_of_even_nu
 This is a more challenging interview question: "Select a point P inside the square of length q randomly (2D). Each point P is the centre of a circle of radius r. Note that circles must be inside the square and cannot overlap. Determine the probability of drawing a point in N draws, which is the centre of a permitted circle." Complicated? This video illustrates how to tackle complex questions step-by-step.
 
 ### [YouTube Video 3](https://youtu.be/BTGUMGspt8M)
+
+## P4: Why should you use a requirements.txt in Python?
+You might have seen a requirements.txt in a GitHub repository. Why do people use it? Moving virtual environments into other folders or uploading to other machines is usually a bad idea (paths can break, security concerns etc.). This video shows you how to make a requirements.txt. Then we demonstrate how to install packages in your virtual environment using a requirements.txt. 
+
+### [YouTube Video 4](https://youtu.be/B70D_k_rPNM)
+
+## P5: How to change directory in Python?
+We explore the os module, which offers many useful methods to interact with your operating system. I show you how to obtain and change your current working directory. However, it is often better to avoid using a machine-specific path.
+
+### [YouTube Video 5](https://youtu.be/estn8X7CwLg)
+
+## P6: Import data from CSV files using Python
+We explore importing data from CSV files to Python. In addition, important options, including variable names and indices, are discussed. Finally, we select columns from Pandas DataFrames and briefly cover Pandas Series.
+
+### [YouTube Video 6](https://youtu.be/yvnwHhpus9M)
+
+
+
+
+
